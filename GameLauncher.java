@@ -4,7 +4,7 @@ package capitulo1.guessingGame;
  * 
  * @author Pedro
  * 
- * Objetivo: Criar um jogo, que tenha 3 jogadores gerados pela maquina, cujo objetivo é assertar um número aleatório gerado tmb pela máquina. O primeiro jogador que assertar o número ganha e o jogo é finalizado.
+ * Objetivo: Criar um jogo, que tenha 3 jogadores gerados pela maquina, cujo objetivo é acertar um número aleatório gerado tmb pela máquina. O primeiro jogador que acertar o número ganha e o jogo é finalizado.
  * 
  * O que fazer:
  * - Criar 3 classes: GameLauncher, GuessGame e Player
@@ -16,6 +16,7 @@ package capitulo1.guessingGame;
  * Desafios:
  * - Definir a responsabilidade de quem conferiria se o chute acertou 
  * - Diferenciar o CHUTE do CHUTA (preciso melhorar essa parte)
+ * - Como fazer com que os jogadores chutem apenas os números possíveis (que ainda não foram ditos pelos demais jogadores)?
  * 
  * @version 1.0
  *
