@@ -4,7 +4,7 @@
  * 
  * @author Pedro
  * 
- * Objetivo: Criar um jogo, que tenha 3 jogadores gerados pela maquina, cujo objetivo é acertar um número aleatório gerado tmb pela máquina. O primeiro jogador que acertar o número ganha e o jogo é finalizado.
+ * Objetivo: Criar um jogo, que tenha 3 jogadores gerados pela maquina, cujo objetivo é acertar um número aleatório gerado tmb pela máquina. O primeiro jogador que acertar o número ganha e o jogo é finalizado. (usando somente arrays!)
  * 
  * O que fazer:
  * - Criar 3 classes: GameLauncher, GuessGame e Player
