@@ -16,7 +16,7 @@
  * Desafios:
  * - Como fazer com que os jogadores chutem apenas os números possíveis (que ainda não foram ditos pelos demais jogadores)?
  * 
- * Aprimoramentos
+ * Aprimoramentos:
  * 1.1 - redução na verbosidade do código no processo das rodadas de cada jogador, agora os jogadores podem aumentar sem o aumento extensivo do número de linhas de código
  * 1.2 - Novo algorítimo para busca de um número ainda não chutado, não apenas randomizado, mas que faz a busca do primeiro numero não chutado a partir do primeiro numero possivel 0
  * 
