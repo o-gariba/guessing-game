@@ -9,14 +9,6 @@ public class Player {
 	private static int[] numerosPossiveisSaoZeros;
 	
 	private static int quantosZerosTem;
-
-	/*
-	 *Criar um array de chutes
-	 *Do tamanho da abrangencia
-	 *Alocar um chute em cada rodada
-	 *Validar chutes ineditos antes de aloca-los
-	 * 
-	 */
 	
 	Integer chute;
 
