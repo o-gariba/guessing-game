@@ -1,4 +1,4 @@
-# guessing-game
+#guessingGame
 
 /**
  * 
@@ -14,10 +14,12 @@
  * - iniciar o jogo na main
  * 
  * Desafios:
- * - Definir a responsabilidade de quem conferiria se o chute acertou 
- * - Diferenciar o CHUTE do CHUTA (preciso melhorar essa parte)
  * - Como fazer com que os jogadores chutem apenas os números possíveis (que ainda não foram ditos pelos demais jogadores)?
  * 
- * @version 1.0
+ * Aprimoramentos
+ * 1.1 - redução na verbosidade do código no processo das rodadas de cada jogador, agora os jogadores podem aumentar sem o aumento extensivo do número de linhas de código
+ * 1.2 - Novo algorítimo para busca de um número ainda não chutado, não apenas randomizado, mas que faz a busca do primeiro numero não chutado a partir do primeiro numero possivel 0
+ * 
+ * @version 1.2
  *
  */
