@@ -50,7 +50,6 @@ public class Player {
 		System.out.println();
 		
 		if (numerosPossiveisSaoZeros[chuteAtual] != 0) {
-			//Erro no for seguinte, percorre toda a extensão sem entrar na condição logo abaixo
 			for (int i = 0; i < Player.abrangencia; i++) {
 				if (Player.numerosPossiveisSaoZeros[i] == 0) {
 					this.chute = i;
